@@ -1,2 +1,3 @@
-# prime-booking-system-bymu
-Automated issue comment bot repository
+# Prime Booking System Bymu
+
+Automated issue comment bot repository.
